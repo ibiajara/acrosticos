@@ -159,6 +159,28 @@ document.addEventListener("DOMContentLoaded", () => {
         { letter: "O", text: "uro de minha pátria" },
         { letter: "R", text: "ainha do ser cristão." }
       ]
+    },
+    {
+      author: "Jorge Alberto Azevedo Veloso Pitágoras de Freitas",
+      acrostico: [
+  { letter: "I", text: "nspiração de um passado tão rico," },
+  { letter: "B", text: "erço de histórias que o tempo não apaga." },
+  { letter: "I", text: "nfância vivida em cada cantinho," },
+  { letter: "A", text: "mor que em teu solo se agarra." },
+  { letter: "J", text: "ardim de memórias, onde meus avós viveram," },
+  { letter: "A", text: "lma que sente saudades que não se calam." },
+  { letter: "R", text: "aios de sol iluminam teu patrimônio," },
+  { letter: "A", text: "mor eterno por Ibiajara, minha cidade amada." },
+{ space: true },
+  { letter: "M", text: "omentos que guardo no mais profundo do peito," },
+  { letter: "E", text: "ternas lembranças que o tempo não desfaz." },
+  { letter: "U", text: "m pedaço de mim sempre será teu," },
+{ space: true },
+  { letter: "A", text: "mor que transcende distância e saudade." },
+  { letter: "M", text: "emórias que vivem em cada esquina," },
+  { letter: "O", text: "lhar que busca teu horizonte," },
+  { letter: "R", text: "aízes que nunca deixarei para trás." }
+]
     }
   ];
 
